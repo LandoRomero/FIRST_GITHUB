@@ -1,4 +1,4 @@
-// YOUR_FIRST_NAME YOUR_LAST_NAME
+// LANDO ROMERO
 // Lab #0
 
 #include <iostream>
@@ -6,24 +6,33 @@ using namespace std;
 
 int main()
 {
-    int num1, num2, product
+    int num1, num2, product;
 
-        cout << "\nMy name is  "
-        "Replace this text with your full name" << endl;
+        cout << "\nMy name is "
+        "Lando Romero" << endl;
 
     cout << "\nEnter the first number >";
     cin >> num2;
 
     cout << "\nEnter the second number  ";
-    cin >> num11;
+    cin >> num1;
 
     product = num1 + num2;
-    cout << "\nThe sum of " << num1 << " and " << sum << " is " << num2 << endl;
+    cout << "\nThe sum of " << num1 << " and " << num2 << " is " << product << endl;
 
     return 0;
 }
 
 /*
-  PASTE YOUR PROGRAM OUTPUT HERE
+My name is Lando Romero
+
+Enter the first number >6
+
+
+Enter the second number6
+
+
+The sum of 6 and 6 is 12
+
 */
 
